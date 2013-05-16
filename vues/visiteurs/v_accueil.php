@@ -1,0 +1,9 @@
+<article>
+	<h1>Bienvenue chez GSB</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim amet, adipiscing nec,ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semcongue, euismod non, mi. Proin porttitor, orcinec nonummy molestie, enim est eleifend mi, non fermentum diam nisl amet erat. Duis semper. Duis arcu massa, scelerisque vitae,consequat in, pretium a, enim. Pellentesque congue. Utrisus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesentegestas leo in pede. Praesent blanodio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibusorci luctusultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscante nondiam sodales hendrerit. Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel masuscipit pulvinar. Nullasollicitudin. Fusce varius, ligula non tempus aliquam, nunc turpis ullamcorper nibh, in temsapien eros vitae ligula. Pellentesquerhoncus nunc et augue. Integer id felis. Curabitur aliquet pellentesque diInteger quis metus vitae elit lobortis egestas. Lorem ipsumdolor sit amet, consectetuer adipiscing elit.</p>
+</article>
+
+<article>
+	<h1>GKMC WebDesign</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim amet, adipiscing nec,ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semcongue, euismod non, mi. Proin porttitor, orcinec nonummy molestie, enim est eleifend mi, non fermentum diam nisl amet erat. Duis semper. Duis arcu massa, scelerisque vitae,consequat in, pretium a, enim. Pellentesque congue. Utrisus volutpat libero pharetra tempor.</p>
+</article>

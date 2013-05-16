@@ -1,0 +1,120 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	text-align: justify;
+	background-image: url('../images/Fond1.jpg');
+}
+
+
+/* En-tête */
+header
+{
+	text-align: center;
+}
+
+header img{
+	border: 3px solid black;
+}
+
+
+/* Contenu */
+section
+{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 70px;
+	padding: 10px 25px 20px 25px;
+
+	background-color: #D5F2FF;
+	border: 2px solid black;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+section h1
+{
+	text-transform: uppercase;
+	color: #00A2E8;
+}
+
+section h2
+{
+	text-align: center;
+	text-transform: uppercase;
+	color: #00A2E8;
+}
+
+
+/* Menu */
+nav
+{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+
+nav ul
+{
+	margin:0 auto;
+	padding:0;
+	list-style-type:none;
+	text-align:center;
+}
+ 
+nav li
+{
+	float:left;
+	padding-top:7px;
+	margin-bottom: 5px;
+	background-color: #00A2E8;
+	width: 24.8%;
+	height: 35px;
+	color:white;
+	text-decoration:none;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+nav li:hover{
+	background-color: #00628C;
+	transition:1s;
+}
+
+/* Lien */
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+}
+
+#compte a{
+	color:black;
+}
+
+#compte a:hover{
+	color: black;
+}
+
+.preuve a{
+	color:black;
+	font-weight: bold;
+}
+
+.preuve a:hover{
+	color:black;
+	font-weight: bold;
+}
+
+
+/* Table */
+
+thead{
+	font-weight: bold;
+}
